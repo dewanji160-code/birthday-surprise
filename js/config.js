@@ -108,5 +108,5 @@ di samping kamu.`,
   // 11. QR CODE (dipakai oleh qrcode.html)
   // Ganti setelah website sudah online / di-hosting.
   // ------------------------------------------------------------
-  websiteUrl: "https://YOUR-WEBSITE-URL.com"
+  websiteUrl: "https://dewanji160-code.github.io/birthday-surprise/"
 };
