@@ -78,17 +78,17 @@ di samping kamu.`,
       video: "videos/moment1.mp4"
     },
     {
-      title: "Our Favorite Moment",
+      title: "",
       text: "",
       video: ""
     },
     {
-      title: "And Then...",
+      title: "",
       text: "",
       video: ""
     },
     {
-      title: "Today",
+      title: "",
       text: "",
       video: ""
     }
