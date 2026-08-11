@@ -17,7 +17,7 @@ const birthdayConfig = {
   // Ubah hanya di sini — dipakai otomatis di seluruh website.
   // Gunakan angka, panjang bebas (disarankan 4-6 digit).
   // ------------------------------------------------------------
-  pin: "140826",
+  pin: "260805",
 
   // ------------------------------------------------------------
   // 3. HALAMAN KUNCI (lock screen)
@@ -53,12 +53,12 @@ di samping kamu.`,
   // ------------------------------------------------------------
   galleryTitle: "Our Little Memories",
   photos: [
-    { src: "images/photo1.jpg", caption: "Momen pertama kita" },
-    { src: "images/photo2.jpg", caption: "Liburan favorit" },
-    { src: "images/photo3.jpg", caption: "Random tapi berkesan" },
-    { src: "images/photo4.jpg", caption: "Ketawa bareng" },
-    { src: "images/photo5.jpg", caption: "Malam yang manis" },
-    { src: "images/photo6.jpg", caption: "Sampai sekarang" }
+    { src: "images/photo1.jpg", caption: "" },
+    { src: "images/photo2.jpg", caption: "" },
+    { src: "images/photo3.jpg", caption: "" },
+    { src: "images/photo4.jpg", caption: "" },
+    { src: "images/photo5.jpg", caption: "" },
+    { src: "images/photo6.jpg", caption: "" }
   ],
 
   // ------------------------------------------------------------
@@ -118,5 +118,5 @@ di samping kamu.`,
   // 11. QR CODE (dipakai oleh qrcode.html)
   // Ganti setelah website sudah online / di-hosting.
   // ------------------------------------------------------------
-  websiteUrl: "https://YOUR-WEBSITE-URL.com"
+  websiteUrl: "https://dewanji160-code.github.io/birthday-surprise/"
 };
