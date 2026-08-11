@@ -53,12 +53,12 @@ di samping kamu.`,
   // ------------------------------------------------------------
   galleryTitle: "Our Little Memories",
   photos: [
-    { src: "images/photo1.jpg", caption: "Momen pertama kita" },
-    { src: "images/photo2.jpg", caption: "Liburan favorit" },
-    { src: "images/photo3.jpg", caption: "Random tapi berkesan" },
-    { src: "images/photo4.jpg", caption: "Ketawa bareng" },
-    { src: "images/photo5.jpg", caption: "Malam yang manis" },
-    { src: "images/photo6.jpg", caption: "Sampai sekarang" }
+    { src: "images/photo1.jpg", caption: "" },
+    { src: "images/photo2.jpg", caption: "" },
+    { src: "images/photo3.jpg", caption: "" },
+    { src: "images/photo4.jpg", caption: "" },
+    { src: "images/photo5.jpg", caption: "" },
+    { src: "images/photo6.jpg", caption: "" }
   ],
 
   // ------------------------------------------------------------
