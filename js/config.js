@@ -17,7 +17,7 @@ const birthdayConfig = {
   // Ubah hanya di sini — dipakai otomatis di seluruh website.
   // Gunakan angka, panjang bebas (disarankan 4-6 digit).
   // ------------------------------------------------------------
-  pin: "140826",
+  pin: "260805",
 
   // ------------------------------------------------------------
   // 3. HALAMAN KUNCI (lock screen)
